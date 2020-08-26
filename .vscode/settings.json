@@ -3,6 +3,7 @@
         "iostream": "cpp",
         "vector": "cpp",
         "ostream": "cpp",
-        "type_traits": "cpp"
+        "type_traits": "cpp",
+        "cstring": "cpp"
     },
 }
